@@ -174,7 +174,8 @@
         .row.justify-content-center.align-items-start
           .col-lg-4.col-md-12.col-12
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 2. Factura de venta 
+              h5 Figura 2. 
+              | Factura de venta 
           .col-lg-8.col-md-12.col-12
             .row.justify-content.align-items-start
               .col-lg-8.col-md-12.col-12
@@ -184,7 +185,8 @@
         .row
           .col-lg-12
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 3. Formato para la entrada y salida de materiales
+              h5 Figura 3. 
+              | Formato para la entrada y salida de materiales
           .row.justify-content-center.align-items-start
             .col-lg-8
               img.mb-4(src='@/assets/curso/tema1/fig3.png', alt='La figura presenta un ejemplo del formato para la entrada y salida de materiales con sus respectivos campos para el diligenciamiento.')
@@ -193,7 +195,8 @@
         .row.justify-content-center.align-items-start
           .col-lg-4.col-md-12.col-12
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 4. Factura de nota de remisión 
+              h5 Figura 4. 
+              | Factura de nota de remisión 
           .col-lg-8.col-md-12.col-12
             .row.justify-content.align-items-start
               .col-lg-8.col-md-12.col-12
@@ -203,7 +206,8 @@
         .row.justify-content-center.align-items-start
           .col-lg-4.col-md-12.col-12
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 5. Ficha técnica de producto 
+              h5 Figura 5. 
+              | Ficha técnica de producto 
           .col-lg-8.col-md-12.col-12
             .row.justify-content.align-items-start
               .col-lg-8.col-md-12.col-12
@@ -213,7 +217,8 @@
         .row.justify-content-center.align-items-start
           .col-lg-4.col-md-12.col-12
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 6. Información nutricional 
+              h5 Figura 6. 
+              | Información nutricional 
           .col-lg-8.col-md-12.col-12
             .row.justify-content.align-items-start
               .col-lg-8.col-md-12.col-12
