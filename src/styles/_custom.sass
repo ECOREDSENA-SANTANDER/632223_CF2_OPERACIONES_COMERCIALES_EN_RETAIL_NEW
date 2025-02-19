@@ -1,33 +1,434 @@
 .banner-principal-decorativo
-  &-1
+  &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
-  &-2
+    top: 71%
+    left: 54%
+    width: 120px
+
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 27%
+    left: 2%
+    width: 140px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 15%
+    width: 120px
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+
+
+.banner-principal .tarjeta 
+  img, svg 
+    display: auto
+    border-style: hidden
+
+  figure, picture, img, svg 
+    margin: 0
+    width: 75%
+    
+    
+.banner-principal__componente 
+  margin-bottom: 20px
+
+
+.banner-principal__row 
+    justify-content: space-around
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+    color: black
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+    color: black
+
+
+
+.cajon.color-secundario 
+    background-color: #FFDBD6
+
+.titulo-sexto.color-secundario 
+    border-left-color: #FF725D
+
+.titulo-sexto 
+    border-left: 8px solid
+    padding: 1px 0px 1px 15px
+
+.bg1
+  background-color: #C2D8EF
+  border-radius: 20px
+
+.bg-img-blue
+  padding: 14px
+  background-color: #0D66BF
+  border-radius: 0px 0px 50px 0px
+
+.icon 
+    max-width: 30px
+    left: 55px
+    position: absolute
+
+.iconh
+    max-width: 30px
+    left: 75px
+    position: absolute
+
+
+.fondo1
+  background: url('../assets/curso/tema1/fondo1.jpg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.img-t
+  width: auto
+  height: auto
+.img-a
+  display: block
+  margin: auto
+
+.tarjetaf
+  background-color: #fff
+  border-radius: 18px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px
+    height: 50px
+    background-color: #FFDC39
+    border-radius: 50%
+
+.slyder-a__bullets__item 
+    background-color: #AAC9E9
+    border-color: #AAC9E9
+.slyder-a__bullets__item--active 
+    background-color: #0D66BF !important
+    border-color: #0D66BF !important
+
+
+.ro
+  color: red
+  font-weight: 600
+
+.cont_5_1, .cont_5_1 *
+  position: relative
+.cont_5_1:before
+  content: ''
+  position: absolute
+  width: 125%
+  top: 15%
+  bottom: 15%
+  left: -15%
+  background-size: cover
+  display: inline-block
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 10px
+.crd_hover_txt .crd_hover_txt--body
+  position: absolute
+  padding: 1.5rem
+  width: 100%
+  bottom: 0
+  transition: all .5s ease-in-out
+  transform: translateY(calc(100% - 3.85rem))
+.crd_hover_txt:hover .crd_hover_txt--body
+  transition: all .5s ease-in-out
+  transform: translateY(0)
+  background-color: #0D66BF !important
+  @media (max-width: 768px) 
+    border-radius: 15px
+    display: inline-block !important
+    position: relative
+    width: 100% !important
+    overflow-y: auto !important
+.crd_hover_txt:hover .crd_hover_txt--body *
+  color: #fff !important
+.colt
+  background-color: #FF725D
+
+
+
+
+
+.mh-375
+  min-height: 420px
+
+.col1
+  background-color: #0D66BF
+
+
+.bag
+  background-color: #FF725D
+  border-radius: 50px
+  &:hover
+    background-color: #FFDC39
+
+
+
+.icon1
+    max-width: 35px
+    left: 115px
+    position: absolute
+
+
+.acordion__accion__btn--a
+  background-color: #FFDC39
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+.acordion .tarjeta--azul
+  background-color: #FF725D
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #FFE3DE
+
+.fa-plus:before 
+    content: "\f067"
+    color: #0D66BF
+
+.fa-minus:before 
+    content: "\f068"
+    color: #0D66BF
+
+.fa-check-circle:before, .fa-circle-check:before 
+    content: "\f058"
+    color: #0D66BF
+
+
+.bg2
+  background-color: #D4EEFB
+
+.bg3
+  background-color: #FFDBD6
+
+
+.tabs-c.color-primario .tabs-c__tab--active 
+    border-bottom-color: #FF725D !important
+    font-weight: 900
+
+.tabs-c.color-primario .tabs-c__tab--active:before 
+    border-top-color: #FF725D
+
+.tabs-c__tab
+    border-bottom: 6px solid #53BCED !important
+
+.tabs-c__header 
+    margin-bottom: 0px !important
+.tabs-c
+    border-bottom: 3px solid #D0D6D9
+
+.bg4
+  background-color: #CBEBFA
+  border-radius: 15px
+  height: 410px
+.bg5
+  background-color: #FFD4CE
+  border-radius: 15px
+  height: 410px
+
+
+.fondo2
+  background: url('../assets/curso/tema2/fondo2.png')
+  background-size: 100% 92%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fas.fa-car-side.camisa:before 
+  content: url('../assets/curso/tema2/icon.svg')
   
+.fas.fa-car-side.camisa1:before 
+  content: url('../assets/curso/tema2/iconop.svg')
+
+.fas.fa-car-side.camisaa:before 
+  content: url('../assets/curso/tema2/ico.svg')
+
+.bg7
+  background-color: #FFD4CE !important 
+  border-radius: 10px
+
+.tabs-a.color-primario .tabs-a__tab__selected 
+    background-color: #FFDC39 !important
+    color: #12263F
+
+.tabs-a.color-primario .tabs-a__tab__selected:before 
+    background-color: #FFDC39 !important
+
+.tabs-a__tab:last-child 
+    margin-bottom: 0 !important
+    background-color: #FF725D!important
+
+
+.tabs-c__tab:after 
+    width: 4px
+    height: 40px
+    top: 50%
+    right: -2px
+    background-color: #53BCED
+
+
+.bloque-texto-g.color-acento-contenido
+  border-radius: 20px
+.bloque-texto-g__img
+  border-radius: 20px
+
+
+.subt
+  img
+    width: 9px
+  h3
+    color:#0D66BF
+
+
+
+.bg8
+  background-color: #DCF2FC
+  border-radius: 15px
+
+
+.tarjeta--slyder.blanco
+  background-color: #DCF2FC
+
+.fa-chevron-right:before 
+    content: url('../assets/curso/tema3/der.svg')
+
+.fa-chevron-left:before 
+    content: url('../assets/curso/tema3/izq.svg')
+
+.sub
+  img
+    width: 9px
+  h3
+    color: black
+
   
-.banner-principal .tarjeta
-  background-position: left 50% !important
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 12px
+        height: 12px
+        margin: 0px 1px
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+@media (max-width: 768px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 45px
+    height: 45px
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
 
-figcaption
-  font-weight: normal
- 
+.slyder-a__tipo-b .slyder-a__btn--sigt 
+    content:  url('../assets/curso/tema3/der.svg')
+    transform: rotate(0deg)
+
+.slyder-a__tipo-b .slyder-a__btn--atrs 
+    transform: rotate(0deg)
+    content:  url('../assets/curso/tema3/izq.svg')
+
+
+.tarjeta.bg34
+  background-color: #53BCED
+  border-radius: 18px
+  width: 100%
+
+.tarjeta.bg35
+  background-color: #FF725D
+  border-radius: 18px
+  width: 100%
+
+
+.acordion.activo 
+.acordion__activo .acordion__accion__btn--b
+    background-color: #FFE3DE
+
+.acordion__accion__btn--b 
+    border: 1px solid #afafaf
+
+.acordion 
+    .acordion__activo
+      background-color: #FFE3DE!important
+      border-radius: 20px !important
+    .tarjeta--azull
+      background-color: #fff
+      border-bottom: 0.5px solid #D3D3D3 !important
+      border-radius: 0px
+
+
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__content 
+    background-color: #BCE5F8
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+    background-color: #BCE5F8
+    color: black !important
+.linea-tiempo-d .tarjeta 
+    border-radius: 5px
+.tarjeta--gris 
+    background-color: #E6E6E6
+    font-weight: 700
+.linea-tiempo-d__item__dots:after 
+  content: ''
+  display: block
+  width: 0
+  height: 100%
+  border-left: 5px dotted #FF725D
+
+
+
+
+.modal-a__fondo 
+    position: fixed
+    background-color: rgba(0, 0, 0, 0.9)
+    top: 0px
+    left: 0px
+    bottom: 0px
+    right: 0px
+    opacity: 0
+    z-index: 110000
+    cursor: pointer
+    transition: opacity 0.3s ease-in-out
+
+.modal-a__content 
+    position: fixed
+    top: 50%
+    left: 50%
+    background-color: rgb(255, 255, 255)
+    width: 90%
+    max-width: 1300px
+    max-height: 100vh
+    overflow-y: auto
+    z-index: 110001
+    transform: translate(-50%, -50%) scale(0)
+    border-radius: 20px
+    transition: transform 0.3s ease-in-out
+
+.fa-brands:before, .fa-regular:before,  .fab:before, .far:before,
+    content: var(--fa)
+    color: black
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6 
+    color: black
+    line-height: 1.1em
+
+.tabs-b.color-acento-botones .tabs-b__tab--active 
+    border-top-color: #FF725D !important
+
+.tabs-b__tab--active 
+    background-color: #C3E8F9 !important
+    border-top: 5px solid !important
+    border-bottom: none
+
+.tabs-b__content-item
+  background-color: #C3E8F9
+
+.tabs-b__tab 
+
+    background-color: #C2D8EF
+  
