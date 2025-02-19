@@ -174,12 +174,12 @@ export default {
     },
     {
       tema:
-        'Gestión logistica Integral-Las mejores prácticas en la cadena de abastecimiento',
+        'Gestión logística en centros de distribución y almacenes y bodegas',
       referencia:
-        'Mora García, L. A. (n.d.). Gestión Logística integral: Las mejores prácticas en la cadena de abastecimiento. In Gestión Logística integral (Segunda edición, p. XXI–187).',
-      tipo: 'Revista',
+        'Mundial, a. d. c., & garcia, i. l. a. m. gestion logistica en centros de distribucion y almacenes y bodegas.',
+      tipo: 'Libro',
       link:
-        'https://www.ecoeediciones.mx/wp-content/uploads/2016/12/Gestion-logistica-integral-2da-Edici%C3%B3n.pdf',
+        'https://d1wqtxts1xzle7.cloudfront.net/31679329/anibal-libre.pdf?1392309220=&response-content-disposition=inline%3B+filename%3DAnibal.pdf&Expires=1740000591&Signature=BA2cSRH3vgv1b1wrIME0CCcvDNOV6eGtIeYwtmRHkTyGDQZySrikZ7ykQUQD-8lGRlbdPuoke9IlyDGhhCruI1tH3yJEcTOMsdJawXFoc4QaCIX6QuNU82A2YjUvBA8-zaulxgsVbR0Xu-teHMQpYXrNfhcWoKJryi9wqrBYp-~-blJbOZwq3BkemYQR8DFFbc4G9HvTWoH2DXt-ZdG7zi-V3dMOiU4ghZE8Nqwu4Nhcxil6ZpeYbY9Mt7eejXJoPfKTXRJKCncW2H-Rf7m26KTqHnAupt047rHyxv0am34br34vOTMb5ta9ilHJNBJaWNE1VpWPBNyoD9qILuu-aw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
     },
     {
       tema: 'Dirección de operaciones: Decisiones tácticas y estratégicas',
@@ -280,9 +280,10 @@ export default {
         'https://www.ecoeediciones.com/wp-content/uploads/2015/07/Logistica-Comercial-Internacional.pdf?srsltid=AfmBOoqDiiUgOhJ3-ayEoZ-RvzEuf4WJC_Jgn29o_LU9FoB4V8eZvODz',
     },
     {
-      referencia: 'Manual de gestión de almacenes. (n.d.). Google Books.',
+      referencia:
+        'Martín-Andino, R. (2006). Cadena de suministro (SCM). Madrid: EOI Escuela de Negocios.',
       link:
-        'https://books.google.com.co/books?id=XGgrEQAAQBAJ&printsec=frontcover&hl=es#v=onepage&q&f=false',
+        'https://www.eoi.es/sites/default/files/savia/documents/componente45144.pdf',
     },
     {
       referencia:
