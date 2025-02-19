@@ -213,7 +213,7 @@ export default {
         'Es el proceso que unifica todas las acciones a realizar en un almacén y que están orientadas al flujo de los artículos en la misma y a la preparación y despacho de pedidos.',
     },
     {
-      termino: 'Gestión de stock',
+      termino: 'Gestión de <em>stock</em>',
       significado:
         'Es el proceso de gestionar las existencias de producto y su valor.',
     },

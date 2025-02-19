@@ -166,7 +166,7 @@
                 p.mb-0 #[b Función estética:] hace que el envase resulte más atractivo para el consumidor y lo prefiera frente a otros productos similares.
               li.d-flex.mb-1
                 i.fas.fa-car-side.camisa
-                p.mb-0 #[b Función de #[em marketing:]] relacionada con cómo se vende o se publicita el producto.
+                p.mb-0 #[b Función de marketing:] relacionada con cómo se vende o se publicita el producto.
               li.d-flex.mb-1
                 i.fas.fa-car-side.camisa
                 p.mb-0 #[b Etiquetado:] incluye información de gran utilidad sobre el producto y sus características.
