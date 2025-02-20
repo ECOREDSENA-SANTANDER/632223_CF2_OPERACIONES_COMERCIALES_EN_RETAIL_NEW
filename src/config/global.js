@@ -182,16 +182,16 @@ export default {
         'https://d1wqtxts1xzle7.cloudfront.net/31679329/anibal-libre.pdf?1392309220=&response-content-disposition=inline%3B+filename%3DAnibal.pdf&Expires=1740000591&Signature=BA2cSRH3vgv1b1wrIME0CCcvDNOV6eGtIeYwtmRHkTyGDQZySrikZ7ykQUQD-8lGRlbdPuoke9IlyDGhhCruI1tH3yJEcTOMsdJawXFoc4QaCIX6QuNU82A2YjUvBA8-zaulxgsVbR0Xu-teHMQpYXrNfhcWoKJryi9wqrBYp-~-blJbOZwq3BkemYQR8DFFbc4G9HvTWoH2DXt-ZdG7zi-V3dMOiU4ghZE8Nqwu4Nhcxil6ZpeYbY9Mt7eejXJoPfKTXRJKCncW2H-Rf7m26KTqHnAupt047rHyxv0am34br34vOTMb5ta9ilHJNBJaWNE1VpWPBNyoD9qILuu-aw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
     },
     {
-      tema: 'Dirección de operaciones: Decisiones tácticas y estratégicas',
-      referencia: 'Dirección de operaciones. (n.d.). Google Books.',
+      tema: 'Dirección de la producción y de operaciones Decisiones tácticas',
+      referencia:
+        'Jones, J. H. (2008). Dirección de la producción y de operaciones: Decisiones tácticas (8.ª ed.).',
       tipo: 'Libro',
       link:
-        'https://books.google.com.pe/books?id=PR_IDAAAQBAJ&printsec=frontcover#v=onepage&q&f=false',
+        'file:///C:/Users/LauraPGM/Downloads/2.%20Direcci%C3%B3n%20de%20la%20producci%C3%B3n%20y%20de%20operaciones,%208va%20Edici%C3%B3n%20-%20Jay%20Heizer-.pdf',
     },
     {
       tema: 'Cubicaje',
-      referencia:
-        'Soluciones Logísticas y Aduaneras E & S (2020). Cubicaje de mercancía en contenedor.',
+      referencia: 'Soluciones Logísticas y Aduaneras E & S (2020).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-3pEFK6hp2A',
     },
