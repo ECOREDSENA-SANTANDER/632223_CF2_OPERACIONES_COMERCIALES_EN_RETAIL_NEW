@@ -404,7 +404,7 @@
       .col-md-7.col-7.col-lg-4.mb-4
         img(src='@/assets/curso/tema1/img26.png' alt='')
 
-    .row.justify-content-center(data-aos="zoom-in-left")
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-8.col-md-12.col-12
         .cajon.color-acento-contenido.p-4
           p.mb-0 El análisis de datos es fundamental en el #[em retail], ya que cada día, a cada hora y minuto, innumerables productos entran y salen de la sala de ventas. Con datos incorrectos, un #[em retail] que hace una suposición errónea puede perjudicar el control de su inventario. Para aprovechar mejor el poder de los datos, las empresas de #[em retail] necesitan emplear un equipo interno con tecnología avanzada en gestión de datos.
