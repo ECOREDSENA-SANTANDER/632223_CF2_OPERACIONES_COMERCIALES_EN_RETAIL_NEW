@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Logística comercial',
     Description:
-      'Este componente formativo aborda la logística en operaciones comerciales en <em>retail</em>, enfocándose en conocimientos relacionados con la gestión de almacenes, incluyendo recibo, despacho y manejo de datos, así como el tratamiento el tratamiento del envase, empaque y embalaje en <em>picking</em> y <em>packing</em>, carga y sus conceptos asociados, además su relación con las Buenas Prácticas de Manufactura (BPM) y la normativa técnica de SST .',
+      'Este componente formativo aborda la logística en operaciones comerciales en <em>retail</em>, enfocándose en conocimientos relacionados con la gestión de almacenes, incluyendo recibo, despacho y manejo de datos, así como el tratamiento del envase, empaque y embalaje en <em>picking</em> y <em>packing</em>, carga y sus conceptos asociados, además su relación con las Buenas Prácticas de Manufactura (BPM) y la normativa técnica de SST .',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -284,7 +284,7 @@ export default {
     },
     {
       referencia:
-        '(7) Zarate, P. (2023, 8 junio). ¿Qué es unidad de carga y cómo se integra cada tipo? Nasa Pack.',
+        'Zarate, P. (2023, 8 junio). ¿Qué es unidad de carga y cómo se integra cada tipo? Nasa Pack.',
       link: 'https://www.nasapack.com/que-es-unidad-de-carga/',
     },
   ],
@@ -327,7 +327,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -347,7 +347,7 @@ export default {
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animador y Productor Multimedia',
+          cargo: 'Animadora y Productor Multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -357,12 +357,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

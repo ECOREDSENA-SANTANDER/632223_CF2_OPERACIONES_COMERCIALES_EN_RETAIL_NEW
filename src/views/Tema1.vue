@@ -80,7 +80,7 @@
         .cajon.color-acento-contenido.p-4
           p.mb-0 El  
             strong.ro almacenamiento    
-            | es una función que va mucho más allá de la labor de acopio en un retail, detrás, hay un estudio detallado de las características de cada producto y de las condiciones propias de su proceso de almacenamiento. 
+            | es una función que va mucho más allá de la labor de acopio en un #[em retail], detrás, hay un estudio detallado de las características de cada producto y de las condiciones propias de su proceso de almacenamiento. 
   
     
     .mb-4.d-flex

@@ -67,7 +67,7 @@
       .col-lg-4.col-md-7.col-7.mb-4
         img(src="@/assets/curso/tema3/img6.png")
       .col-lg-8.col-md-12.col-12.mb-0
-        p.mb-4 En logística, el cubicaje se refiere al proceso de acomodar mercancías sobre pallets o en medios de transporte como camiones o contenedores. El objetivo principal es maximizar la cantidad de carga transportada, aprovechando al máximo la capacidad del espacio disponible. Para lograrlo, es fundamental respetar siempre las normativas establecidas y las limitaciones técnicas del transporte, como el peso máximo permitido y las dimensiones del vehículo o contenedor.
+        p.mb-4 En logística, el cubicaje se refiere al proceso de acomodar mercancías sobre #[em pallets] o en medios de transporte como camiones o contenedores. El objetivo principal es maximizar la cantidad de carga transportada, aprovechando al máximo la capacidad del espacio disponible. Para lograrlo, es fundamental respetar siempre las normativas establecidas y las limitaciones técnicas del transporte, como el peso máximo permitido y las dimensiones del vehículo o contenedor.
         p.mb-0 El cubicaje eficiente no solo optimiza el uso del espacio, sino que también puede reducir costos de transporte y mejorar la eficiencia operativa. Además, una correcta planificación del cubicaje contribuye a la seguridad de la carga durante el transporte, minimizando el riesgo de daños y facilitando una logística más sostenible y efectiva.
 
     separador
