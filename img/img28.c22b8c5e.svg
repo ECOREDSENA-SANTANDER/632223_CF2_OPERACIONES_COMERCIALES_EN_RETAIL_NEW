@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212.288" height="214.511" viewBox="0 0 212.288 214.511">
+  <g id="Grupo_1100052" data-name="Grupo 1100052" transform="translate(-688.712 -9864.641)">
+    <rect id="Rectángulo_401396" data-name="Rectángulo 401396" width="149" height="201" rx="40" transform="translate(703 9871.396)" fill="none" stroke="#0d66bf" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectángulo_19304" data-name="Rectángulo 19304" width="212.288" height="214.511" transform="translate(688.712 9864.641)" fill="none"/>
+    <g id="Grupo_1099753" data-name="Grupo 1099753" transform="translate(556.075 9671.104)">
+      <path id="Trazado_156525" data-name="Trazado 156525" d="M336.847,322.291c-.25-2.7-2.361-5.7-6.275-8.916l-.443-.364-20.882-1.688v-40.3H296.856a67.034,67.034,0,0,0-124.521,41.193l-9.963,13.934H335.478l.549-.654A4.39,4.39,0,0,0,336.847,322.291Z" transform="translate(0)" fill="#ff725d"/>
+      <path id="Trazado_156526" data-name="Trazado 156526" d="M177.378,326.552l6.648-9.3-.085-.706a63.391,63.391,0,0,1,118.154-38.733l.525.929h10.858v40.012l23.1,1.867c3.538,3,4.353,4.945,4.492,5.929Z" transform="translate(-7.89 -4.058)" fill="#fff"/>
+      <g id="Grupo_81288" data-name="Grupo 81288" transform="translate(293.968 272.856)">
+        <rect id="Rectángulo_35701" data-name="Rectángulo 35701" width="3.66" height="14.302" transform="translate(0 0)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81289" data-name="Grupo 81289" transform="translate(218.05 294.668)">
+        <rect id="Rectángulo_35702" data-name="Rectángulo 35702" width="30.608" height="27.826" transform="translate(1.83 1.83)" fill="#0d66bf"/>
+        <path id="Trazado_156527" data-name="Trazado 156527" d="M314.054,389.17H279.786V357.684h34.268Zm-30.608-3.66h26.949V361.344H283.445Z" transform="translate(-279.786 -357.684)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81290" data-name="Grupo 81290" transform="translate(193.769 251.225)">
+        <path id="Trazado_156528" data-name="Trazado 156528" d="M231.775,293.925l-3.192-1.791c8.189-14.6,22.644-24.254,38.667-25.833,19.421-1.917,38.347,8.224,48.218,25.833l-3.193,1.79c-9.16-16.341-26.693-25.755-44.666-23.98C252.775,271.4,239.379,280.37,231.775,293.925Z" transform="translate(-228.583 -266.071)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81291" data-name="Grupo 81291" transform="translate(176.148 322.494)">
+        <rect id="Rectángulo_35703" data-name="Rectángulo 35703" width="118.465" height="8.095" transform="translate(1.83 1.83)" fill="#0d66bf"/>
+        <path id="Trazado_156529" data-name="Trazado 156529" d="M313.547,428.118H191.422V416.364H313.547Zm-118.465-3.66H309.887v-4.435H195.082Z" transform="translate(-191.422 -416.364)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81292" data-name="Grupo 81292" transform="translate(193.593 330.589)">
+        <path id="Trazado_156530" data-name="Trazado 156530" d="M302.108,437.293l-17.427,13.528H270.6l-17.427-13.528H239.258l30.6,24.349v27.152h15.565V461.642l30.6-24.349Z" transform="translate(-234.019 -435.463)" fill="#0d66bf"/>
+        <path id="Trazado_156531" data-name="Trazado 156531" d="M281.443,488.594H262.218V460.5l-34.007-27.061h19.782l17.427,13.527h12.826l17.427-13.527h19.778L281.443,460.5Zm-15.565-3.659h11.905v-26.2l27.191-21.637h-8.048L279.5,450.621H264.166l-17.427-13.527h-8.051l27.19,21.637Z" transform="translate(-228.211 -433.434)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81293" data-name="Grupo 81293" transform="translate(227.6 369.914)">
+        <rect id="Rectángulo_35704" data-name="Rectángulo 35704" width="15.565" height="12.175" transform="translate(1.83 1.83)" fill="#fff"/>
+        <path id="Trazado_156532" data-name="Trazado 156532" d="M319.151,532.2H299.926V516.364h19.225Zm-15.565-3.659h11.905v-8.516H303.586Z" transform="translate(-299.926 -516.364)" fill="#ff725d"/>
+      </g>
+      <g id="Grupo_81294" data-name="Grupo 81294" transform="translate(235.386 371.744)">
+        <rect id="Rectángulo_35705" data-name="Rectángulo 35705" width="3.66" height="6.087" transform="translate(0 0)" fill="#ff725d"/>
+      </g>
+    </g>
+  </g>
+</svg>
