@@ -118,7 +118,7 @@
 
     .row.justify-content-center.align-items-end
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 Este es un proceso recurrente que involucra a todos los actores del proceso de almacenamiento y distribución, en el cual se requiere mantener una comunicación y coordinación efectiva las partes para garantizar el éxito en su ejecución.
+        p.mb-4 Este es un proceso recurrente que involucra a todos los actores del proceso de almacenamiento y distribución, en el cual se requiere mantener una comunicación y coordinación efectiva de las partes para garantizar el éxito en su ejecución.
         p.mb-0 Las actividades involucradas en el proceso de recibo demandan el cumplimiento de protocolos de seguridad para garantizar la preservación de los productos, y cumplir con las expectativas de los usuarios finales. Este proceso comienza con una orden de compra, que es una solicitud formal, legal y contable en la que se especifican al fabricante o proveedor las características del producto solicitado, la cantidad requerida y los términos y condiciones bajo los cuales se lleva a cabo este proceso. 
       .col-lg-4.col-md-9.col-9.mb-4
         img.img-a.img-t(src='@/assets/curso/tema1/img10.svg', alt='tema1')
@@ -229,7 +229,7 @@
     #t_1_2.titulo-segundo.color-secundario
       h2 1.2 Despacho 
     
-    p.mb-4 En logística, el despacho representa el proceso de último contacto que tiene producto con el almacén, antes de ser entregado al cliente o distribuidor. Este proceso es gestionado por parte del responsable de bodega quien supervisa la entrada y salida de productos del #[em retail], y tiene como función principal el control de inventarios y recepción de mercancías. 
+    p.mb-4 En logística, el despacho representa el proceso de último contacto que tiene producto con el almacén, antes de ser entregado al cliente o distribuidor. Este proceso es gestionado por parte del responsable de bodega, quien supervisa la entrada y salida de productos del #[em retail], y tiene como función principal el control de inventarios y recepción de mercancías. 
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-0.bg-img-blue
@@ -243,7 +243,7 @@
         h3.col.px-2.mb-0.mx-5.text-white(data-aos="zoom-in-left") Preparación y despacho del pedido
         img.icon(src='@/assets/curso/tema1/icon.svg')
     
-    p.mb-4 A continuación, se describen los pasos para realizar la preparación y despacho en sus diferentes momentos :
+    p.mb-4 A continuación, se describen los pasos para realizar la preparación y despacho en sus diferentes momentos:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.col-md-12.col-12
@@ -284,7 +284,7 @@
                 p.mb-0 En el caso de despacho de cajas mixtas, estibas mixtas, arrume de mercancía, la lista de empaque estará contenida en el “aviso de despacho”.
               li.d-flex.mb-0
                 i.fas.fa-circle-check
-                p.mb-0 Generación y envío del “aviso de despacho” hacia al cliente. Si no se tiene la capacidad de generar un aviso de despacho, el proveedor al pedir la cita debe especificar la cantidad y tipo de camiones que serán despachados para entregar la mercancía solicitada por el cliente.
+                p.mb-0 Generación y envío del “aviso de despacho” hacia al cliente. Si no se tiene la capacidad de generar un aviso de despacho, el proveedor, al pedir la cita, debe especificar la cantidad y tipo de camiones que serán despachados para entregar la mercancía solicitada por el cliente.
               li.d-flex.mb-0
                 i.fas.fa-circle-check
                 p.mb-0 En los despachos de paqueteo, el proveedor debe incluir en la etiqueta de despacho (rótulo) el número de localización del punto de entrega simbolizado en código de barras. También aplica para las entregas en #[em cross docking] predistribuido.

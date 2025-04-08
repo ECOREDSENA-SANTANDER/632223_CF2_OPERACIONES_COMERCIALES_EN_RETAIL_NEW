@@ -38,7 +38,7 @@
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     p.mb-4 Existen muchos criterios para clasificar los envases. A continuación, se destacan dos: el tipo de cierre y el material de fabricación.
-    p.mb-4 Por definición, los envases contienen y protegen productos, por lo que es fundamental que estén bien cerrados. Se identifican a continuación varios tipos de sistemas de cierre :
+    p.mb-4 Por definición, los envases contienen y protegen productos, por lo que es fundamental que estén bien cerrados. Se identifican a continuación varios tipos de sistemas de cierre:
 
     TabsC.color-primario.mb-5(data-aos="zoom-in-left")
       .py-3.py-md-5(titulo="Tapones")

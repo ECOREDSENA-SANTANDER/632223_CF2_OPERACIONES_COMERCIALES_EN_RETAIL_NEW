@@ -173,17 +173,17 @@ export default {
         'https://gc.scalahed.com/recursos/files/r161r/w25735w/LIBROAlmacen.pdf',
     },
     {
-      tema:
-        'Gestión logística en centros de distribución y almacenes y bodegas',
+      tema: 'Gestión logística',
       referencia:
-        'Mundial, a. d. c., & garcia, i. l. a. m. gestion logistica en centros de distribucion y almacenes y bodegas.',
-      tipo: 'Libro',
+        'Gómez, J. (2011). Gestión logística. Fundación de Estudios Superiores Comfanorte.',
+      tipo: 'PDF',
       link:
-        'https://d1wqtxts1xzle7.cloudfront.net/31679329/anibal-libre.pdf?1392309220=&response-content-disposition=inline%3B+filename%3DAnibal.pdf&Expires=1740000591&Signature=BA2cSRH3vgv1b1wrIME0CCcvDNOV6eGtIeYwtmRHkTyGDQZySrikZ7ykQUQD-8lGRlbdPuoke9IlyDGhhCruI1tH3yJEcTOMsdJawXFoc4QaCIX6QuNU82A2YjUvBA8-zaulxgsVbR0Xu-teHMQpYXrNfhcWoKJryi9wqrBYp-~-blJbOZwq3BkemYQR8DFFbc4G9HvTWoH2DXt-ZdG7zi-V3dMOiU4ghZE8Nqwu4Nhcxil6ZpeYbY9Mt7eejXJoPfKTXRJKCncW2H-Rf7m26KTqHnAupt047rHyxv0am34br34vOTMb5ta9ilHJNBJaWNE1VpWPBNyoD9qILuu-aw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
+        'https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf',
     },
     {
       tema: 'Cubicaje',
-      referencia: 'Soluciones Logísticas y Aduaneras E & S (2020).',
+      referencia:
+        'Soluciones Logísticas y Aduaneras. (2020, 3 mayo). Cubicaje de mercancía en contenedor.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-3pEFK6hp2A',
     },
@@ -246,7 +246,7 @@ export default {
     {
       termino: 'Zona de <em>pallets</em>',
       significado:
-        'Lugar de almacenamiento de bloques de <em>pallets</em> para su reorganización a través del <em>picking</em> o para una nueva distribución',
+        'Lugar de almacenamiento de bloques de <em>pallets</em> para su reorganización a través del <em>picking</em> o para una nueva distribución.',
     },
     {
       termino: 'Zona de pesaje',
@@ -267,7 +267,7 @@ export default {
     },
     {
       referencia:
-        'Castellanos Ramírez, A. (n.d.). Logística y distribución de mercancías.',
+        'Castellanos Ramírez, A. (n.d.). Logística comercial internacional.',
       link:
         'https://www.ecoeediciones.com/wp-content/uploads/2015/07/Logistica-Comercial-Internacional.pdf?srsltid=AfmBOoqDiiUgOhJ3-ayEoZ-RvzEuf4WJC_Jgn29o_LU9FoB4V8eZvODz',
     },
@@ -294,12 +294,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -309,25 +309,25 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Maritza Rodríguez Beltrán',
-          cargo: 'Instructora Técnica',
+          cargo: 'Instructora técnica',
           centro:
             'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital',
         },
         {
           nombre: 'Natalia Andrea Bueno Pizarro',
-          cargo: 'Diseñadora y Evaluadora Instruccional',
+          cargo: 'Diseñadora y evaluadora instruccional',
           centro:
             'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y Evaluadora Instruccional',
+          cargo: 'Diseñadora y evaluadora instruccional',
           centro:
             'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -337,17 +337,17 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
-          cargo: 'Diseñadora de Contenidos Digitales',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Pedro Alonso Bolivar Gonzalez',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productor Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -357,7 +357,7 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

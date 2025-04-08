@@ -230,7 +230,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
               h4.mb-4 Política y objetivos de la empresa en el área de prevención.
-              p.mb-0 Es una declaración de principios y compromisos que promueven a mejorar continuamente las condiciones de seguridad y salud dentro de la empresa, como elemento de calidad. Por tal motivo, es uno de los primeros pasos o acciones de los cuales se deriva todo el sistema de prevención
+              p.mb-0 Es una declaración de principios y compromisos que promueven a mejorar continuamente las condiciones de seguridad y salud dentro de la empresa, como elemento de calidad. Por tal motivo, es uno de los primeros pasos o acciones de los cuales se deriva todo el sistema de prevención.
             .col-lg-4.col-8.order-lg-2.order-2(data-aos="fade-right")
               img.img-a.img-t(src="@/assets/curso/tema3/img25.svg")
         
