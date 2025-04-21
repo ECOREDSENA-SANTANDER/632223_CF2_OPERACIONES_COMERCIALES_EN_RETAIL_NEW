@@ -119,7 +119,7 @@
     .row.justify-content-center.align-items-end
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 Este es un proceso recurrente que involucra a todos los actores del proceso de almacenamiento y distribución, en el cual se requiere mantener una comunicación y coordinación efectiva de las partes para garantizar el éxito en su ejecución.
-        p.mb-0 Las actividades involucradas en el proceso de recibo demandan el cumplimiento de protocolos de seguridad para garantizar la preservación de los productos, y cumplir con las expectativas de los usuarios finales. Este proceso comienza con una orden de compra, que es una solicitud formal, legal y contable en la que se especifican al fabricante o proveedor las características del producto solicitado, la cantidad requerida y los términos y condiciones bajo los cuales se lleva a cabo este proceso. 
+        p.mb-0 Las actividades involucradas en el proceso de recibo demandan el cumplimiento de protocolos de seguridad para garantizar la preservación de los productos, y cumplir con las expectativas de los usuarios finales. Este proceso comienza con una orden de compra, que es una solicitud formal, legal y contable, en la que se especifican al fabricante o proveedor las características del producto solicitado, la cantidad requerida y los términos y condiciones bajo los cuales se lleva a cabo este proceso. 
       .col-lg-4.col-md-9.col-9.mb-4
         img.img-a.img-t(src='@/assets/curso/tema1/img10.svg', alt='tema1')
       
