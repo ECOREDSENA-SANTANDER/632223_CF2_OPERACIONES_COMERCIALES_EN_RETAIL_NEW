@@ -183,7 +183,7 @@ export default {
     {
       tema: 'Cubicaje',
       referencia:
-        'Soluciones Logísticas y Aduaneras. (2020, 3 mayo). Cubicaje de mercancía en contenedor.',
+        'Soluciones Logísticas y Aduaneras. (2020, 2 de mayo). Cubicaje de mercancía en contenedor [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-3pEFK6hp2A',
     },
